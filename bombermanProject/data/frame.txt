@@ -1,0 +1,596 @@
+85
+brick
+data/brick.png
+  xy: 0 0
+  size: 100 100
+
+
+
+run_01
+data/new.png
+  xy: 142 1224
+  size: 69 194
+  orig: 720 720
+  offset: 325 287
+  index: 0
+run_02
+data/new.png
+  xy: 415 1224
+  size: 64 197
+  orig: 720 720
+  offset: 328 288
+  index: 1
+run_03
+data/new.png
+  xy: 880 1224
+  size: 61 202
+  orig: 720 720
+  offset: 329 285
+  index: 2
+run_04
+data/new.png
+  xy: 750 1224
+  size: 58 201
+  orig: 720 720
+  offset: 330 285
+  index: 3
+run_05
+data/new.png
+  xy: 623 1224
+  size: 58 199
+  orig: 720 720
+  offset: 330 284
+  index: 4
+run_06
+data/new.png
+  xy: 211 1224
+  size: 60 194
+  orig: 720 720
+  offset: 330 286
+  index: 5
+run_07
+data/new.png
+  xy: 255 1033
+  size: 66 180
+  orig: 720 720
+  offset: 327 295
+  index: 6
+run_08
+data/new.png
+  xy: 339 678
+  size: 73 175
+  orig: 720 720
+  offset: 324 297
+  index: 7
+run_09
+data/new.png
+  xy: 628 1033
+  size: 75 182
+  orig: 720 720
+  offset: 324 292
+  index: 8
+run_010
+data/new.png
+  xy: 0 1224
+  size: 75 192
+  orig: 720 720
+  offset: 326 286
+  index: 9
+run_011
+data/new.png
+  xy: 340 1224
+  size: 75 195
+  orig: 720 720
+  offset: 327 287
+  index: 10
+run_012
+data/new.png
+  xy: 479 1224
+  size: 75 197
+  orig: 720 720
+  offset: 327 289
+  index: 11
+run_013
+data/new.png
+  xy: 808 1224
+  size: 72 202
+  orig: 720 720
+  offset: 328 286
+  index: 12
+run_014
+data/new.png
+  xy: 681 1224
+  size: 69 201
+  orig: 720 720
+  offset: 329 285
+  index: 13
+run_015
+data/new.png
+  xy: 554 1224
+  size: 69 198
+  orig: 720 720
+  offset: 329 285
+  index: 14
+run_016
+data/new.png
+  xy: 75 1224
+  size: 67 193
+  orig: 720 720
+  offset: 331 286
+  index: 15
+run_017
+data/new.png
+  xy: 775 1033
+  size: 67 185
+  orig: 720 720
+  offset: 332 290
+  index: 16
+run_018
+data/new.png
+  xy: 321 1033
+  size: 69 180
+  orig: 720 720
+  offset: 331 292
+  index: 17
+run_019
+data/new.png
+  xy: 703 1033
+  size: 72 183
+  orig: 720 720
+  offset: 327 291
+  index: 18
+run_020
+data/new.png
+  xy: 842 1033
+  size: 72 191
+  orig: 720 720
+  offset: 325 286
+  index: 19
+run_021
+data/new.png
+  xy: 271 1224
+  size: 69 194
+  orig: 720 720
+  offset: 325 287
+  index: 20
+run_21
+data/new.png
+  xy: 0 854
+  size: 88 176
+  orig: 720 720
+  offset: 320 297
+  index: 0
+run_22
+data/new.png
+  xy: 351 854
+  size: 107 177
+  orig: 720 720
+  offset: 305 299
+  index: 1
+run_23
+data/new.png
+  xy: 0 1033
+  size: 119 179
+  orig: 720 720
+  offset: 297 299
+  index: 2
+run_24
+data/new.png
+  xy: 412 678
+  size: 121 176
+  orig: 720 720
+  offset: 297 300
+  index: 3
+run_25
+data/new.png
+  xy: 670 504
+  size: 124 174
+  orig: 720 720
+  offset: 298 298
+  index: 4
+run_26
+data/new.png
+  xy: 654 854
+  size: 117 178
+  orig: 720 720
+  offset: 299 290
+  index: 5
+run_27
+data/new.png
+  xy: 368 504
+  size: 118 173
+  orig: 720 720
+  offset: 297 290
+  index: 6
+run_28
+data/new.png
+  xy: 191 333
+  size: 112 169
+  orig: 720 720
+  offset: 303 291
+  index: 7
+run_29
+data/new.png
+  xy: 0 504
+  size: 106 171
+  orig: 720 720
+  offset: 307 291
+  index: 8
+run_210
+data/new.png
+  xy: 794 504
+  size: 90 174
+  orig: 720 720
+  offset: 320 292
+  index: 9
+run_211
+data/new.png
+  xy: 264 854
+  size: 87 177
+  orig: 720 720
+  offset: 321 292
+  index: 10
+run_212
+data/new.png
+  xy: 736 678
+  size: 102 176
+  orig: 720 720
+  offset: 306 297
+  index: 11
+run_213
+data/new.png
+  xy: 106 504
+  size: 111 171
+  orig: 720 720
+  offset: 297 304
+  index: 12
+run_214
+data/new.png
+  xy: 675 0
+  size: 116 165
+  orig: 720 720
+  offset: 296 307
+  index: 13
+run_215
+data/new.png
+  xy: 552 0
+  size: 123 165
+  orig: 720 720
+  offset: 296 304
+  index: 14
+run_216
+data/new.png
+  xy: 852 165
+  size: 113 168
+  orig: 720 720
+  offset: 298 298
+  index: 15
+run_217
+data/new.png
+  xy: 0 165
+  size: 112 165
+  orig: 720 720
+  offset: 300 297
+  index: 16
+run_218
+data/new.png
+  xy: 0 0
+  size: 106 163
+  orig: 720 720
+  offset: 306 297
+  index: 17
+run_219
+data/new.png
+  xy: 427 165
+  size: 97 166
+  orig: 720 720
+  offset: 314 297
+  index: 18
+run_220
+data/new.png
+  xy: 217 504
+  size: 82 171
+  orig: 720 720
+  offset: 327 297
+  index: 19
+run_221
+data/new.png
+  xy: 838 678
+  size: 88 176
+  orig: 720 720
+  offset: 320 297
+  index: 20
+run_41
+data/new.png
+  xy: 218 0
+  size: 68 164
+  orig: 720 720
+  offset: 327 300
+  index: 0
+run_42
+data/new.png
+  xy: 303 333
+  size: 65 170
+  orig: 720 720
+  offset: 328 297
+  index: 1
+run_43
+data/new.png
+  xy: 279 678
+  size: 60 175
+  orig: 720 720
+  offset: 331 293
+  index: 2
+run_44
+data/new.png
+  xy: 503 1033
+  size: 59 181
+  orig: 720 720
+  offset: 332 285
+  index: 3
+run_45
+data/new.png
+  xy: 458 854
+  size: 59 177
+  orig: 720 720
+  offset: 332 286
+  index: 4
+run_46
+data/new.png
+  xy: 218 678
+  size: 61 175
+  orig: 720 720
+  offset: 330 284
+  index: 5
+run_47
+data/new.png
+  xy: 119 1033
+  size: 67 179
+  orig: 720 720
+  offset: 327 275
+  index: 6
+run_48
+data/new.png
+  xy: 368 333
+  size: 73 170
+  orig: 720 720
+  offset: 324 281
+  index: 7
+run_49
+data/new.png
+  xy: 702 165
+  size: 76 168
+  orig: 720 720
+  offset: 321 286
+  index: 8
+run_410
+data/new.png
+  xy: 112 165
+  size: 75 166
+  orig: 720 720
+  offset: 320 293
+  index: 9
+run_411
+data/new.png
+  xy: 409 0
+  size: 75 164
+  orig: 720 720
+  offset: 319 300
+  index: 10
+run_412
+data/new.png
+  xy: 778 165
+  size: 74 168
+  orig: 720 720
+  offset: 319 300
+  index: 11
+run_413
+data/new.png
+  xy: 118 333
+  size: 73 169
+  orig: 720 720
+  offset: 320 300
+  index: 12
+run_414
+data/new.png
+  xy: 584 854
+  size: 70 178
+  orig: 720 720
+  offset: 322 289
+  index: 13
+run_415
+data/new.png
+  xy: 186 1033
+  size: 69 179
+  orig: 720 720
+  offset: 323 285
+  index: 14
+run_416
+data/new.png
+  xy: 517 854
+  size: 67 178
+  orig: 720 720
+  offset: 323 282
+  index: 15
+run_417
+data/new.png
+  xy: 562 1033
+  size: 66 181
+  orig: 720 720
+  offset: 322 275
+  index: 16
+run_418
+data/new.png
+  xy: 299 504
+  size: 69 172
+  orig: 720 720
+  offset: 321 281
+  index: 17
+run_419
+data/new.png
+  xy: 631 165
+  size: 71 167
+  orig: 720 720
+  offset: 322 288
+  index: 18
+run_420
+data/new.png
+  xy: 791 0
+  size: 72 165
+  orig: 720 720
+  offset: 324 294
+  index: 19
+run_421
+data/new.png
+  xy: 484 0
+  size: 68 164
+  orig: 720 720
+  offset: 327 300
+  index: 20
+run_61
+data/new.png
+  xy: 88 854
+  size: 88 177
+  orig: 720 720
+  offset: 312 293
+  index: 0
+run_62
+data/new.png
+  xy: 112 678
+  size: 106 174
+  orig: 720 720
+  offset: 309 299
+  index: 1
+run_63
+data/new.png
+  xy: 657 333
+  size: 118 170
+  orig: 720 720
+  offset: 305 305
+  index: 2
+run_64
+data/new.png
+  xy: 305 165
+  size: 122 166
+  orig: 720 720
+  offset: 302 308
+  index: 3
+run_65
+data/new.png
+  xy: 286 0
+  size: 123 164
+  orig: 720 720
+  offset: 299 307
+  index: 4
+run_66
+data/new.png
+  xy: 0 333
+  size: 118 168
+  orig: 720 720
+  offset: 304 300
+  index: 5
+run_67
+data/new.png
+  xy: 187 165
+  size: 118 166
+  orig: 720 720
+  offset: 306 298
+  index: 6
+run_68
+data/new.png
+  xy: 106 0
+  size: 112 163
+  orig: 720 720
+  offset: 305 298
+  index: 7
+run_69
+data/new.png
+  xy: 524 165
+  size: 107 166
+  orig: 720 720
+  offset: 307 298
+  index: 8
+run_610
+data/new.png
+  xy: 872 333
+  size: 89 171
+  orig: 720 720
+  offset: 311 298
+  index: 9
+run_611
+data/new.png
+  xy: 649 678
+  size: 87 176
+  orig: 720 720
+  offset: 313 298
+  index: 10
+run_612
+data/new.png
+  xy: 568 504
+  size: 102 174
+  orig: 720 720
+  offset: 313 304
+  index: 11
+run_613
+data/new.png
+  xy: 546 333
+  size: 111 170
+  orig: 720 720
+  offset: 312 310
+  index: 12
+run_614
+data/new.png
+  xy: 533 678
+  size: 116 176
+  orig: 720 720
+  offset: 309 302
+  index: 13
+run_615
+data/new.png
+  xy: 771 854
+  size: 122 179
+  orig: 720 720
+  offset: 302 296
+  index: 14
+run_616
+data/new.png
+  xy: 390 1033
+  size: 113 180
+  orig: 720 720
+  offset: 309 291
+  index: 15
+run_617
+data/new.png
+  xy: 0 678
+  size: 112 174
+  orig: 720 720
+  offset: 309 292
+  index: 16
+run_618
+data/new.png
+  xy: 441 333
+  size: 105 170
+  orig: 720 720
+  offset: 309 292
+  index: 17
+run_619
+data/new.png
+  xy: 775 333
+  size: 97 171
+  orig: 720 720
+  offset: 310 292
+  index: 18
+run_620
+data/new.png
+  xy: 486 504
+  size: 82 173
+  orig: 720 720
+  offset: 311 293
+  index: 19
+run_621
+data/new.png
+  xy: 176 854
+  size: 88 177
+  orig: 720 720
+  offset: 312 293
+  index: 20

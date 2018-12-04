@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/animation/Animation.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Tree.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/FlameItem.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Portal.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/BombExplosing.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/animation/LoadData.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/BackGroundMap.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/frame.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/GameObject.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/ParticularObject.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/phys_map.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/sounds.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Human.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/BombItem.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Monster.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/animation.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/animation/FrameImage.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Bomb.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/PhysicalMap.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/GUI/Board.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/BombManager.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/GUI/Game.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/animation2.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/GameWorld.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Player.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/SpeedItem.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/Camera.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/objects/ParticularObjectManager.java</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/newx.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/nbproject/build-impl.xml</file>
+            <file>file:/F:/netbean_program/bombermanProject/data/Level1.txt</file>
+            <file>file:/F:/netbean_program/bombermanProject/src/com/ngoc/GUI/KeyboardManager.java</file>
+        </group>
+    </open-files>
+</project-private>

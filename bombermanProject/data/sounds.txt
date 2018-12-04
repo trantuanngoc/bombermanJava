@@ -1,0 +1,7 @@
+5
+
+bgmusic data/bgmusic.wav
+bombExplosing data/explosingSound.wav
+itemSound data/item.wav
+loseSound data/lose_sound.wav
+winSound data/winSound.wav
